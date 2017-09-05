@@ -1,0 +1,32 @@
+﻿@model curso.net.Models.Demo
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+
+        Esta es una vista sin modelo!!!!
+
+    </div>
+    <div>
+        @Model.Message
+        
+    </div>
+    <div>
+
+        @Model.MessageHtml
+        @Html.Raw(Model.MessageHtml)
+
+    </div>
+
+</body>
+</html>
