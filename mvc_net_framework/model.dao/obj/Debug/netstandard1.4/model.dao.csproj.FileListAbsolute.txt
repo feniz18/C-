@@ -1,0 +1,10 @@
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\bin\Debug\netstandard1.4\model.dao.deps.json
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\obj\Debug\netstandard1.4\model.dao.csprojResolveAssemblyReference.cache
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\obj\Debug\netstandard1.4\model.dao.csproj.CoreCompileInputs.cache
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\obj\Debug\netstandard1.4\model.dao.AssemblyInfo.cs
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\bin\Debug\netstandard1.4\model.dao.dll
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\bin\Debug\netstandard1.4\model.entity.dll
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\bin\Debug\netstandard1.4\model.entity.pdb
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\bin\Debug\netstandard1.4\model.dao.pdb
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\obj\Debug\netstandard1.4\model.dao.dll
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\model.dao\obj\Debug\netstandard1.4\model.dao.pdb

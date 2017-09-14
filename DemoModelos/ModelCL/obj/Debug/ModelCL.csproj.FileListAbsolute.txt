@@ -1,6 +1,0 @@
-C:\Users\Usuario\Desktop\C#\DemoModelos\ModelCL\bin\Debug\ModelCL.dll
-C:\Users\Usuario\Desktop\C#\DemoModelos\ModelCL\bin\Debug\ModelCL.pdb
-C:\Users\Usuario\Desktop\C#\DemoModelos\ModelCL\obj\Debug\ModelCL.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\C#\DemoModelos\ModelCL\obj\Debug\ModelCL.dll
-C:\Users\Usuario\Desktop\C#\DemoModelos\ModelCL\obj\Debug\ModelCL.pdb
-C:\Users\Usuario\Desktop\C#\DemoModelos\ModelCL\obj\Debug\ModelCL.csprojResolveAssemblyReference.cache

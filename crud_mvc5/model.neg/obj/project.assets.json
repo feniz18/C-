@@ -2546,32 +2546,18 @@
           }
         }
       },
-      "model.dao/1.0.0": {
+      "model1.dao/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10586",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
-          "System.Data.SqlClient": "4.4.0",
-          "model.entity": "1.0.0"
+          "System.Data.SqlClient": "4.4.0"
         },
         "compile": {
-          "bin/placeholder/model.dao.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dao.dll": {}
-        }
-      },
-      "model.entity/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10586",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0"
-        },
-        "compile": {
-          "bin/placeholder/model.entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/model.entity.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         }
       }
     },
@@ -5099,32 +5085,18 @@
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "model.dao/1.0.0": {
+      "model1.dao/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10586",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
-          "System.Data.SqlClient": "4.4.0",
-          "model.entity": "1.0.0"
+          "System.Data.SqlClient": "4.4.0"
         },
         "compile": {
-          "bin/placeholder/model.dao.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dao.dll": {}
-        }
-      },
-      "model.entity/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10586",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0"
-        },
-        "compile": {
-          "bin/placeholder/model.entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/model.entity.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         }
       }
     },
@@ -7688,32 +7660,18 @@
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "model.dao/1.0.0": {
+      "model1.dao/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10586",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
-          "System.Data.SqlClient": "4.4.0",
-          "model.entity": "1.0.0"
+          "System.Data.SqlClient": "4.4.0"
         },
         "compile": {
-          "bin/placeholder/model.dao.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dao.dll": {}
-        }
-      },
-      "model.entity/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10586",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0"
-        },
-        "compile": {
-          "bin/placeholder/model.entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/model.entity.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         }
       }
     },
@@ -10253,32 +10211,18 @@
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "model.dao/1.0.0": {
+      "model1.dao/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10586",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
-          "System.Data.SqlClient": "4.4.0",
-          "model.entity": "1.0.0"
+          "System.Data.SqlClient": "4.4.0"
         },
         "compile": {
-          "bin/placeholder/model.dao.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dao.dll": {}
-        }
-      },
-      "model.entity/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10586",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0"
-        },
-        "compile": {
-          "bin/placeholder/model.entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/model.entity.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         }
       }
     },
@@ -12854,32 +12798,18 @@
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "model.dao/1.0.0": {
+      "model1.dao/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10586",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
-          "System.Data.SqlClient": "4.4.0",
-          "model.entity": "1.0.0"
+          "System.Data.SqlClient": "4.4.0"
         },
         "compile": {
-          "bin/placeholder/model.dao.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dao.dll": {}
-        }
-      },
-      "model.entity/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10586",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0"
-        },
-        "compile": {
-          "bin/placeholder/model.entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/model.entity.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         }
       }
     },
@@ -15419,32 +15349,18 @@
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "model.dao/1.0.0": {
+      "model1.dao/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10586",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
-          "System.Data.SqlClient": "4.4.0",
-          "model.entity": "1.0.0"
+          "System.Data.SqlClient": "4.4.0"
         },
         "compile": {
-          "bin/placeholder/model.dao.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dao.dll": {}
-        }
-      },
-      "model.entity/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10586",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0"
-        },
-        "compile": {
-          "bin/placeholder/model.entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/model.entity.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         }
       }
     },
@@ -18020,32 +17936,18 @@
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "model.dao/1.0.0": {
+      "model1.dao/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10586",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
-          "System.Data.SqlClient": "4.4.0",
-          "model.entity": "1.0.0"
+          "System.Data.SqlClient": "4.4.0"
         },
         "compile": {
-          "bin/placeholder/model.dao.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dao.dll": {}
-        }
-      },
-      "model.entity/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10586",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0"
-        },
-        "compile": {
-          "bin/placeholder/model.entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/model.entity.dll": {}
+          "bin/placeholder/model1.dao.dll": {}
         }
       }
     }
@@ -26902,39 +26804,33 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "model.dao/1.0.0": {
+    "model1.dao/1.0.0": {
       "type": "project",
-      "path": "../model.dao/model.dao.csproj",
-      "msbuildProject": "../model.dao/model.dao.csproj"
-    },
-    "model.entity/1.0.0": {
-      "type": "project",
-      "path": "../model.entity/model.entity.csproj",
-      "msbuildProject": "../model.entity/model.entity.csproj"
+      "path": "../model.dao/model1.dao.csproj",
+      "msbuildProject": "../model.dao/model1.dao.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.10586": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.4.0",
-      "model.dao >= 1.0.0",
-      "model.entity >= 1.0.0"
+      "model1.dao >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\Aulas Informaticas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\C#\\crud_mvc5\\model.neg\\model.neg.csproj",
+      "projectUniqueName": "C:\\Users\\Aulas Informaticas\\Desktop\\David\\C-\\crud_mvc5\\model.neg\\model.neg.csproj",
       "projectName": "model.neg",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\C#\\crud_mvc5\\model.neg\\model.neg.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\C#\\crud_mvc5\\model.neg\\obj\\",
+      "projectPath": "C:\\Users\\Aulas Informaticas\\Desktop\\David\\C-\\crud_mvc5\\model.neg\\model.neg.csproj",
+      "packagesPath": "C:\\Users\\Aulas Informaticas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aulas Informaticas\\Desktop\\David\\C-\\crud_mvc5\\model.neg\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aulas Informaticas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -26947,11 +26843,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\C#\\crud_mvc5\\model.dao\\model.dao.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\C#\\crud_mvc5\\model.dao\\model.dao.csproj"
-            },
-            "C:\\Users\\Usuario\\Desktop\\C#\\crud_mvc5\\model.entity\\model.entity.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\C#\\crud_mvc5\\model.entity\\model.entity.csproj"
+            "C:\\Users\\Aulas Informaticas\\Desktop\\David\\C-\\crud_mvc5\\model.dao\\model1.dao.csproj": {
+              "projectPath": "C:\\Users\\Aulas Informaticas\\Desktop\\David\\C-\\crud_mvc5\\model.dao\\model1.dao.csproj"
             }
           }
         }

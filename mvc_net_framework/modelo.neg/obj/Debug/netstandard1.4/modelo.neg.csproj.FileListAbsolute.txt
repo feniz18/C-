@@ -1,0 +1,12 @@
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\bin\Debug\netstandard1.4\modelo.neg.deps.json
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\bin\Debug\netstandard1.4\modelo.neg.dll
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\obj\Debug\netstandard1.4\modelo.neg.csprojResolveAssemblyReference.cache
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\obj\Debug\netstandard1.4\modelo.neg.csproj.CoreCompileInputs.cache
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\obj\Debug\netstandard1.4\modelo.neg.AssemblyInfo.cs
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\bin\Debug\netstandard1.4\modelo.neg.pdb
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\bin\Debug\netstandard1.4\model.dao.dll
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\bin\Debug\netstandard1.4\model.entity.dll
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\bin\Debug\netstandard1.4\model.dao.pdb
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\bin\Debug\netstandard1.4\model.entity.pdb
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\obj\Debug\netstandard1.4\modelo.neg.dll
+C:\Users\Aulas Informaticas\source\repos\mvc_net_framework\modelo.neg\obj\Debug\netstandard1.4\modelo.neg.pdb

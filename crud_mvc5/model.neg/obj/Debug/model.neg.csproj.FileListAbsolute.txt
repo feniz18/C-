@@ -22,3 +22,5 @@ C:\Users\Usuario\Desktop\C#\crud_mvc5\model.neg\bin\Debug\model.dao.pdb
 C:\Users\Usuario\Desktop\C#\crud_mvc5\model.neg\bin\Debug\model.dao.pri
 C:\Users\Usuario\Desktop\C#\crud_mvc5\model.neg\bin\Debug\model.entity.pdb
 C:\Users\Usuario\Desktop\C#\crud_mvc5\model.neg\bin\Debug\model.entity.pri
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\model.neg\obj\Debug\model.neg.csprojResolveAssemblyReference.cache
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\model.neg\obj\Debug\model.neg.csproj.CoreCompileInputs.cache

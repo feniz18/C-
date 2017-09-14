@@ -116,13 +116,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\model.dao\model.dao.csproj">
+    <ProjectReference Include="..\model.dao\model1.dao.csproj">
       <Project>{102c95bf-61df-4799-8e00-dbd3a1f0a1c8}</Project>
-      <Name>model.dao</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\model.entity\model.entity.csproj">
-      <Project>{0e924e67-96a5-477f-85a7-12728aa4925b}</Project>
-      <Name>model.entity</Name>
+      <Name>model1.dao</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

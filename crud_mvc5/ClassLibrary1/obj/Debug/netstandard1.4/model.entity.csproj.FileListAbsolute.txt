@@ -1,0 +1,7 @@
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\ClassLibrary1\bin\Debug\netstandard1.4\model.entity.deps.json
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\ClassLibrary1\bin\Debug\netstandard1.4\model.entity.dll
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\ClassLibrary1\bin\Debug\netstandard1.4\model.entity.pdb
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\ClassLibrary1\obj\Debug\netstandard1.4\model.entity.csproj.CoreCompileInputs.cache
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\ClassLibrary1\obj\Debug\netstandard1.4\model.entity.AssemblyInfo.cs
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\ClassLibrary1\obj\Debug\netstandard1.4\model.entity.dll
+C:\Users\Aulas Informaticas\Desktop\David\C-\crud_mvc5\ClassLibrary1\obj\Debug\netstandard1.4\model.entity.pdb

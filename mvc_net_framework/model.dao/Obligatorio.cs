@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace model.dao
+{
+    interface Obligatorio<cualquierClase>
+    {
+        void create(cualquierClase obj);
+
+        void update(cualquierClase obj);
+
+        void delete(cualquierClase obj);
+
+        bool find(cualquierClase obj);
+
+        List<cualquierClase> findAll();
+    }
+}
