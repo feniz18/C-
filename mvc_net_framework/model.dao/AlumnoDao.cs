@@ -1,8 +1,10 @@
 ﻿using model.entity;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace model.dao
 {
@@ -96,6 +98,11 @@ namespace model.dao
 
                 throw;
             }
+            finally
+            {
+                objConexion.getCon().Close();
+                objConexion.cerrarConexion();
+            }
 
             return registros;
 
@@ -133,6 +140,11 @@ namespace model.dao
             {
 
                 throw;
+            }
+            finally
+            {
+                objConexion.getCon().Close();
+                objConexion.cerrarConexion();
             }
 
             return listaAlumnos;

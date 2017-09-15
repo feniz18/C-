@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace model.dao
 {
@@ -15,7 +17,7 @@ namespace model.dao
         private Conexion()
         {
             //mi primera conexion ♥
-            con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C: \\Users\\Aulas Informaticas\\source\\repos\\mvc_net_framework\\MVC - alumno\\App_Data\\alumnoBD.mdf\";Integrated Security=True");
+            con = new SqlConnection("Data Source=.;Initial Catalog=colegio;User ID=sa;Password=56115611go");
         }
 
         public static Conexion saberEstado()

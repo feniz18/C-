@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\C#\mvc_net_framework\model.entity\bin\Debug\model.entity.dll
+C:\Users\Usuario\Desktop\C#\mvc_net_framework\model.entity\bin\Debug\model.entity.pdb
+C:\Users\Usuario\Desktop\C#\mvc_net_framework\model.entity\obj\Debug\model.entity.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\mvc_net_framework\model.entity\obj\Debug\model.entity.dll
+C:\Users\Usuario\Desktop\C#\mvc_net_framework\model.entity\obj\Debug\model.entity.pdb
